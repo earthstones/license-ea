@@ -4,7 +4,7 @@
 263493147|2030-12-31|Yosua Exness
 2171152381|2030-12-31|Affiliate Alvin
 2171153846|2026-08-23|TOO Member Grup Alvin|23-07
-2171095714|2026-08-23|Sarman Member Grup Alvin|23-07
+2171095714|2026-08-23|Sarman Member Grup Alvin|
 2171154577|2026-08-23|GFX Member Grup Alvin|23-07
 2171154306|2026-08-24|Helmy Member Grup Alvin|24-07
 2171156578|2026-08-25|Susanto Member Grup Alvin|25-07
