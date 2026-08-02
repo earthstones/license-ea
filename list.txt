@@ -1,4 +1,4 @@
-184004783|2026-12-31|Ko Ari Pribadi
+184004783|2026-12-31|Ko Ari Pribadi|grid:40|tp:20
 2171153803|2030-12-31|Admin Valetax - Chellvan Sekolah
 2171123436|2030-12-31|Yosua Valetax
 2171171312|2030-12-31|Alvin
