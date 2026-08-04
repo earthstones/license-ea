@@ -1,5 +1,6 @@
 184004783|2026-12-31|Ko Ari Pribadi|grid:45|tp:20
-2171153803|2030-12-31|Admin Valetax - Chellvan Sekolah
+2171153803|2050-12-31|Admin Valetax - Chellvan Sekolah
+263505690|2050-12-31|Admin Exness - Simpanan
 2171123436|2030-12-31|Yosua Valetax
 2171171312|2030-12-31|Alvin
 263493147|2030-12-31|Yosua Exness
