@@ -8,7 +8,7 @@
 263493147|2030-12-31|Yosua Exness
 2171152381|2030-12-31|Kakek Bandel
 2171095714|2026-08-23|Sarman Member Grup Alvin
-2171157296|2026-09-05|Sarman Member Grup Alvin
+2171157296|2026-09-06|Sarman Member Grup Alvin
 2171154577|2026-08-23|GFX Member Grup Alvin
 2171154306|2026-08-24|Helmy Member Grup Alvin
 2171156578|2026-08-25|Susanto Member Grup Alvin
