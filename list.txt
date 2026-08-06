@@ -1,5 +1,5 @@
-184004783|2026-12-31|Ko Ari Pribadi|grid:45|tp:20
-160128338|2026-12-31|Ko Ari Pribadi|grid:45|tp:20
+184004783|2026-12-31|Ko Ari Pribadi|grid:40|tp:20
+160128338|2026-12-31|Ko Ari Pribadi|grid:40|tp:20
 2171153803|2050-12-31|Admin Valetax - Chellvan Sekolah
 263505690|2050-12-31|Admin Exness - Simpanan
 184099217|2050-12-31|Dicky
